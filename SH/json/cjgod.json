@@ -83,11 +83,6 @@
       "type": 1
     },
     {
-      "name": "卧龙",
-      "url": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "type": 1
-    },
-    {
       "name": "1080",
       "url": "http://api.1080zyku.com/inc/api_mac10.php",
       "type": 1
