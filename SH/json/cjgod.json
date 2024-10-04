@@ -65,7 +65,8 @@
     {
       "name": "量子",
       "url": "https://lzizy7.com/api.php/provide/vod/from/lzm3u8",
-      "type": 1
+      "type": 1,
+      "playUrl": "json:https://47.96.255.149/api.php?url="
     },
     {
       "name": "非凡",
