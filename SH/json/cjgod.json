@@ -81,7 +81,8 @@
     {
       "name": "极速",
       "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-      "type": 1
+      "type": 1,
+      "playUrl": "json:https://47.96.255.149/api.php?url="
     },
     {
       "name": "1080",
