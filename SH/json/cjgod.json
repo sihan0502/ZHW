@@ -70,7 +70,8 @@
     {
       "name": "非凡",
       "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
-      "type": 1
+      "type": 1,
+      "playUrl": "json:https://47.96.255.149/api.php?url="
     },
     {
       "name": "艾旦",
