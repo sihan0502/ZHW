@@ -500,6 +500,7 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 60,
+            "jar": "./jar/pgtg.jar",
             "ext": "./lib/tokenm.json$$$http://107.174.253.228:9999/$$$alypzyhzq,wpzyhj,wanwansubchat,guaguale1150,alibabadrive,aliyundriveShare,shareAliyun_Group$$$noproxy$$$1"
         },
         {
