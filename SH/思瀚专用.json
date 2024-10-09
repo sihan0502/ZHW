@@ -988,7 +988,6 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
@@ -997,7 +996,6 @@
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
@@ -1014,7 +1012,6 @@
             "url": "http://ttkx.live:55/lib/kx2024.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
@@ -1023,7 +1020,6 @@
             "url": "./tv/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
