@@ -158,26 +158,27 @@
       "server": "ms_bf4fff0a9525437d90bb5c78db3395a7"
     },
     {
-	    "disable_filter": 0,
-	    "name": "🍩丨Temby",
-	    "proxy": "",
-	    "server": "ms_b3e29604137544068816c522ff84e85c"
+      "disable_filter": 0,
+      "name": "🍩丨Temby",
+      "proxy": "",
+      "server": "ms_b3e29604137544068816c522ff84e85c"
     },
     {
-	    "disable_filter": 0,
-	    "name": "🍭丨9clubs",
-	    "proxy": "",
-	    "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
+      "disable_filter": 0,
+      "name": "🍭丨9clubs",
+      "proxy": "",
+      "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
     }, 
     {
-	    "disable_filter": 0,
-	    "name": "🍰丨custom",
-	    "proxy": "",
-	    "server": "ms_267c42df76704de79b47ba5dfed8da96"
+      "disable_filter": 0,
+      "name": "🍰丨custom",
+      "proxy": "",
+      "server": "ms_267c42df76704de79b47ba5dfed8da96"
     },
     {
       "disable_filter": 0,
       "name": "Ⓜ️丨misakaf",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_3ac11a61ff5c467992917bd462b8b731"
     }
    
