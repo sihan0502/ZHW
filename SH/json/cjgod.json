@@ -99,8 +99,8 @@
       "type": 1
     },
     {
-      "name": "飞速",
-      "url": "https://www.feisuzy.com/api.php/provide/vod/from/fsm3u8",
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/",
       "type": 1
     },
     {
