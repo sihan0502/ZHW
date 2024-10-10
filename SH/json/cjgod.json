@@ -65,14 +65,12 @@
     {
       "name": "量子",
       "url": "https://lzizy7.com/api.php/provide/vod/from/lzm3u8",
-      "type": 1,
-      "playUrl": "json:http://113.31.111.169:81/tfqgg.php?url="
+      "type": 1
     },
     {
       "name": "非凡",
       "url": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8",
-      "type": 1,
-      "playUrl": "json:http://113.31.111.169:81/tfqgg.php?url="
+      "type": 1
     },
     {
       "name": "艾旦",
@@ -82,14 +80,12 @@
     {
       "name": "极速",
       "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-      "type": 1,
-      "playUrl": "json:http://113.31.111.169:81/tfqgg.php?url="
+      "type": 1
     },
     {
       "name": "1080",
       "url": "http://api.1080zyku.com/inc/api_mac10.php",
-      "type": 1,
-      "playUrl": "json:http://113.31.111.169:81/tfqgg.php?url="
+      "type": 1
     },
     {
       "name": "360",
