@@ -60,7 +60,8 @@
     {
       "name": "看看",
       "url": "https://zy.hikan.xyz/api.php/provide/vod",
-      "type": 1
+      "type": 1,
+      "playUrl": "https://dmplay.knowhub.vip/d?url="
     },
     {
       "name": "量子",
