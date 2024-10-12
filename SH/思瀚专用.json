@@ -1241,6 +1241,11 @@
     ],
     "parses": [
         {
+            "name": "私用",
+            "type": 1,
+            "url": "http://211.101.234.192:4433/api/?key=EfZWnLH9Lbbo4MExp6&url="
+        },
+        {
             "name": "小米",
             "type": 1,
             "url": "http://xiaomi2189.xiyan.chat/yu.php?url="
