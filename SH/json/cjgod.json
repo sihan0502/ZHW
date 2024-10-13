@@ -38,6 +38,12 @@
       "playUrl": "jx"
     },
     {
+      "name": "星河",
+      "url": "http://154.21.201.190:666/tvbox/lib/星河.php",
+      "type": 3,
+      "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url="
+    },
+    {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
       "type": 1
