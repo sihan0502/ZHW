@@ -1241,9 +1241,14 @@
     ],
     "parses": [
         {
-            "name": "私用",
+            "name": "192",
             "type": 1,
             "url": "http://211.101.234.192:4433/api/?key=EfZWnLH9Lbbo4MExp6&url="
+        },
+        {
+            "name": "174",
+            "type": 1,
+            "url": "http://124.71.160.174:2199/api/?key=ec1cb04fc4305717baaf30de72deefa6&url="
         },
         {
             "name": "小米",
