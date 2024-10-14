@@ -44,6 +44,11 @@
       "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url="
     },
     {
+      "name": "如意",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/",
+      "type": 1
+    },
+    {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
       "type": 1
