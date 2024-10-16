@@ -496,22 +496,6 @@
             "timeout": 15
         },
         {
-            "key": "ucShare",
-            "name": "🏀丨UC 盘【☣️】",
-            "type": 3,
-            "api": "csp_UCShare",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
             "key": "TGYunPan1",
             "name": "🎨丨TG 盘【☣️】",
             "type": 3,
@@ -552,22 +536,6 @@
                 "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000",
                 "proxy": "noproxy",
                 "danmu": true
-            }
-        },
-        {
-            "key": "115Share",
-            "name": "🌍丨115 盘【☣️】",
-            "type": 3,
-            "api": "csp_P115Share",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "timeout": 120,
-            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
             }
         },
         {
@@ -987,6 +955,38 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/quarkshare.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "ucShare",
+            "name": "🏀丨UC分享【☣️】",
+            "type": 3,
+            "api": "csp_UCShare",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/ucshare.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "115Share",
+            "name": "🌍丨115分享【☣️】",
+            "type": 3,
+            "api": "csp_P115Share",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 120,
+            "ext": "./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
