@@ -47,10 +47,11 @@
             },
             "ext": "./lib/tokenm.json"
         },
+	{
             "key": "hipy_js_央视大全",
             "name": "📺CCTV ┃ 🌐",
             "type": 3,
-            "api": "./drpy_libs/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
