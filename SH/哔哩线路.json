@@ -40,27 +40,10 @@
 			"ext": "./js/斗鱼直播.js"
 		},
 		{
-			"key":"MV_vod",
-			"name":"🍃 | 电视MTV | 📺",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
 			"key": "酷狗",
 			"name": "🍃 | 酷狗音乐 | 📺",
 			"type": 3,
 			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Iktv",
-			"name": "🍃 | 电视KTV | 📺",
-			"type": 3,
-			"api": "csp_Iktv",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -73,6 +56,19 @@
 			"changeable": 0
 		},
 		{
+			"key":"bili",
+			"name":"🍃 | 哔哩合集 | 🅱️",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+				"cookie":""
+			}
+		},
+		{
 			"key": "csp_哔哩短剧",
 			"name": "🍃 | 哔哩短剧 | 🅱️",
 			"type": 3,
@@ -81,16 +77,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./bli//哔哩短剧.json"
-		},
-		{
-			"key": "csp_Bili1",
-			"name": "🍃 | 哔哩合集 | 🅱️",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./bli//哔哩合集.json"
 		},
 		{
 			"key": "舞蹈",
