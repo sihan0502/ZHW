@@ -1,5 +1,5 @@
 {
-	"spider": "./jar/fm.jar",
+	"spider": "./jar/pg.jar",
 	"sites": [
 		{
 			"key": "hipy_js_KTV歌厅[听]",
@@ -38,6 +38,39 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "./js/斗鱼直播.js"
+		},
+		{
+			"key":"MV_vod",
+			"name":"🍃 | 电视MTV | 📺",
+			"type":1,
+			"api": "https://mv.wogg.link/mv/vod",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "酷狗",
+			"name": "🍃 | 酷狗音乐 | 📺",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Iktv",
+			"name": "🍃 | 电视KTV | 📺",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Yinyuetai",
+			"name": "🍃 | 音悦台 | 📺",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
 		},
 		{
 			"key": "csp_哔哩短剧",
