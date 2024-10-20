@@ -5,7 +5,7 @@
 			"key": "hipy_js_KTV歌厅[听]",
 			"name": "🍃 | 拾光音乐 | ☪",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "./lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
