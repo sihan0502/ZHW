@@ -2,6 +2,14 @@
 	"spider": "./jar/pg.jar",
 	"sites": [
 		{
+			"key": "Yinyuetai",
+			"name": "🍃 | 音悦台 | 📺",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
 			"key": "hipy_js_KTV歌厅[听]",
 			"name": "🍃 | 拾光音乐 | ☪",
 			"type": 3,
@@ -44,14 +52,6 @@
 			"name": "🍃 | 酷狗音乐 | 📺",
 			"type": 3,
 			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Yinyuetai",
-			"name": "🍃 | 音悦台 | 📺",
-			"type": 3,
-			"api": "csp_Yinyuetai",
 			"searchable": 1,
 			"changeable": 0
 		},
