@@ -21,7 +21,7 @@
         },
         {
             "key": "hipy_js_央视大全",
-            "name": "📺CCTV ┃ 🌐",
+            "name": "📺CCTV ┃ ۞",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -31,7 +31,7 @@
         },
         {
             "key": "WoKee_jar_CjGod ",
-            "name": "💫采集 ┃ 🌐",
+            "name": "💫采集 ┃ ☯",
              "type": 3,
              "api": "csp_CjGod",
              "searchable": 1,
@@ -47,7 +47,7 @@
         },
         {
             "key": "NanGua",
-            "name": "🎃南瓜 ┃ 🌐",
+            "name": "🎃南瓜 ┃ ☯",
             "type": 3,
             "api": "csp_Nangua",
             "searchable": 1,
@@ -56,7 +56,7 @@
         },
         {
             "key": "JinPai",
-            "name": "🥇金牌 ┃ 🌐",
+            "name": "🥇金牌 ┃ ☯",
             "type": 3,
             "api": "csp_JinPai",
             "searchable": 1,
@@ -66,7 +66,7 @@
         },
         {
             "key": "ai_movie",
-            "name": "🎬爱影 ┃ 🌐",
+            "name": "🎬爱影 ┃ ☯",
             "type": 3,
             "api": "csp_JinPai",
             "searchable": 1,
@@ -77,7 +77,7 @@
         },
         {
             "key": "天天",
-            "name": "☀天天 ┃ 🌐",
+            "name": "☀天天 ┃ ☯",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -85,7 +85,7 @@
         },
         {
             "key": "️爱看Bot弹幕版",
-            "name": "💖爱看 ┃ 🌐",
+            "name": "💖爱看 ┃ ☯",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -99,7 +99,7 @@
         },
         {
             "key": "酷看弹幕版",
-            "name": "😎酷看 ┃ 🌐",
+            "name": "😎酷看 ┃ ☯",
             "type": 3,
             "api": "csp_Kkys",
             "searchable": 1,
@@ -114,7 +114,7 @@
         },
         {
             "key": "圣城影视",
-            "name": "🏛️圣城 ┃ 🌐",
+            "name": "🏛️圣城 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -125,7 +125,7 @@
         },
         {
             "key": "达达龟",
-            "name": "🐢达达 ┃ 🌐",
+            "name": "🐢达达 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -136,7 +136,7 @@
         },
         {
             "key": "csp_Vidz",
-            "name": "♈Vidz ┃ 🌐",
+            "name": "♈Vidz ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -150,7 +150,7 @@
         },
         {
             "key": "rarbt",
-            "name": "🎩博士 ┃ 🌐",
+            "name": "🎩博士 ┃ ☯",
             "type": 3,
             "changeable": 1,
             "searchable": 1,
@@ -175,7 +175,7 @@
         },
         {
             "key": "即看",
-            "name": "👀即看 ┃ 🌐",
+            "name": "👀即看 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -193,7 +193,7 @@
         },
         {
             "key": "saohuo",
-            "name": "🔥骚火 ┃ 🌐",
+            "name": "🔥骚火 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -216,7 +216,7 @@
         },
         {
             "key": "七味在线",
-            "name": "🍸七味 ┃ 🌐",
+            "name": "🍸七味 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -234,7 +234,7 @@
         },
         {
             "key": "csp_桵空影院",
-            "name": "🌫桵空 ┃ 🌐",
+            "name": "🌫桵空 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -245,7 +245,7 @@
         },
         {
             "key": "影视大全",
-            "name": "🍱影视 ┃ 🌐",
+            "name": "🍱影视 ┃ ☯",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -258,7 +258,7 @@
         },
         {
             "key": "sliu_spider",
-            "name": "🍊石榴 ┃ 🌐",
+            "name": "🍊石榴 ┃ ☯",
             "api": "csp_ShiLiuDY",
             "type": 3,
             "jar": "./jar/qq.jar",
