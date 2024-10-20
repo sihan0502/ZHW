@@ -3,9 +3,17 @@
 	"sites": [
 		{
 			"key": "Yinyuetai",
-			"name": "🍃 | 音悦 台 | 📺",
+			"name": "🍃 | 音悦 台 | ☂",
 			"type": 3,
 			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "酷狗",
+			"name": "🍃 | 酷狗音乐 | ♕",
+			"type": 3,
+			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0
 		},
@@ -23,7 +31,7 @@
 		},
 		{
 			"key": "虎牙直播js",
-			"name": "🍃 | 虎牙直播 | 🐯",
+			"name": "🍃 | 虎牙直播 | ☬",
 			"type": 3,
 			"api": "./js/apiv421drpy1.min.js",
 			"style": {
@@ -36,7 +44,7 @@
 		},
 		{
 			"key": "csp_XYQBiu_斗鱼",
-			"name": "🍃 | 斗鱼直播 | 🐠",
+			"name": "🍃 | 斗鱼直播 | 〠",
 			"type": 3,
 			"api": "./js/apiv421drpy1.min.js",
 			"style": {
@@ -48,16 +56,8 @@
 			"ext": "./js/斗鱼直播.js"
 		},
 		{
-			"key": "酷狗",
-			"name": "🍃 | 酷狗音乐 | 🐶",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key":"bili",
-			"name":"🍃 | 哔哩合集 | 🅱️",
+			"name":"🍃 | 哔哩合集 | ☃",
 			"type":3,
 			"api": "csp_Bili",
 			"searchable": 1,
