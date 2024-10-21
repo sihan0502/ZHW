@@ -101,6 +101,12 @@
       "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
+      "disable_filter":0,
+      "name":"✨丨飞跃银河",
+      "proxy":"",
+      "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
+    },
+    {
       "disable_filter": 0,
       "name": "💢丨C C  服",
       "server": "ms_62412c64e94a46d7a85910db56ae17f5"
@@ -174,6 +180,12 @@
       "name": "🍰丨custom",
       "proxy": "",
       "server": "ms_267c42df76704de79b47ba5dfed8da96"
+    },
+    {
+      "disable_filter":0,
+      "name":"🍡丨SIESTA",
+      "proxy":"",
+      "server":"ms_db19d19588ea46ba85e1b3961efe80c5"
     },
     {
       "disable_filter": 0,
