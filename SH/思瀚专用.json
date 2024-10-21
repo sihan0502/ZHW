@@ -62,7 +62,7 @@
             "name": "📽️丨EMBY【🌐】",
             "type": 3,
             "api": "csp_Embys",
-            "timeout": 30,
+            "timeout": 300,
             "searchable": 1,
             "changeable": 1,
             "searchTop": true,
