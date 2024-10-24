@@ -85,6 +85,28 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
             "ext": "./json/cjgod.json"
         },
+	{
+            "key": "Pan68",
+            "name": "🍽️丨盘他 吧【🌐】",
+            "type": 3,
+            "api": "csp_Pan68",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext":"kuake,ali,ali2"//自己删减不要盘 kuake,ali,ali2,xunlei,baidu,lanzou
+        },
+        {
+            "key": "PanReMan",
+            "name": "🎻丨拉曼 盘【🌐】",
+            "type": 3,
+            "api": "csp_PanReMan",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext":"ALY,QUARK"//自己删减不要盘 BDY, ALY, QUARK, XUNLEI
+        },
         {
             "key": "玩偶弹幕版",
             "name": "👽丨玩偶哥哥【☯️】",
