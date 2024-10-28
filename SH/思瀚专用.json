@@ -943,7 +943,7 @@
             "type": 3,
             "api": "csp_FeiYangLive",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext":"http://127.0.0.1:35455/tv.m3u" 
+            "ext":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u" 
             //"ext":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u"
             //"ext":"http://144.24.40.190:35455/tv.m3u"
 
