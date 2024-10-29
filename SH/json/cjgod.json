@@ -27,23 +27,6 @@
     //    "disable_filter": 0,
     //    }
     {
-      "name": "君君",
-      "type": 3,
-      "url": "http://122.228.85.203:1000/api.php/app/"
-    },
-    {
-      "name": "小猫",
-      "url": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "type": 1,
-      "playUrl": "jx"
-    },
-    {
-      "name": "星河",
-      "url": "http://154.21.201.190:666/tvbox/lib/星河.php",
-      "type": 1,
-      "playUrl": "json:http://154.21.201.190:666/tvbox/json/xinghe.php?url="
-    },
-    {
       "name": "如意",
       "url": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/",
       "type": 1
@@ -140,11 +123,6 @@
       "type": 1
     },
     {
-      "name": "飞速",
-      "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
-      "type": 1
-    },
-    {
       "name": "最大",
       "url": "https://api.zuidapi.com/api.php/provide/vod/",
       "type": 1
@@ -185,24 +163,9 @@
       "url": "https://siguyy.cn/api.php/app/"
     },
     {
-      "name": "追剧兔",
-      "type": 3,
-      "url": "https://www.zjtu.one/api.php/app/"
-    },
-    {
       "name": "电影馆",
       "type": 3,
       "url": "https://4kdyg.top/api.php/v1.vod"
-    },
-    {
-      "name": "新感觉",
-      "type": 3,
-      "url": "http://43.248.100.147:9891/api.php/app/"
-    },
-    {
-      "name": "小马",
-      "type": 3,
-      "url": "https://mas.szyyds.cn/api.php/app/"
     },
     {
       "name": "39影视",
