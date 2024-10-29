@@ -34,20 +34,6 @@
                 "ratio": 1
             }
         },
-	{
-            "key": "zx网盘配置",
-            "name": "☣️️༺ZX配置༻☣️",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-	    "jar": "./jar/pgtg.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            },
-            "ext": "./lib/tokenm.json"
-        },
         {
             "key": "网盘配置",
             "name": "☣️️༺PG配置༻☣️",
