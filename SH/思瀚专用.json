@@ -41,6 +41,7 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
+	    "jar": "./jar/pgtg.jar",
             "style": {
                 "type": "rect",
                 "ratio": 2
