@@ -462,7 +462,6 @@
             "type": 3,
             "api": "csp_TGYunPan",
             "timeout": 120,
-	    "jar": "./jar/qzpg.jar",
             "ext": {
                 "token": "./lib/tokenm.json",
                 "json": "./lib/tgsearch.json",
