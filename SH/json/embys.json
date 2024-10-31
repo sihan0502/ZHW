@@ -23,7 +23,7 @@
     {
       "disable_filter": 0,
       "name": "🚁丨直升 机",
-      "server": "ms_356dbb2b02bd46398ea08b4931be7995"
+      "server": "ms_47690feb4d5546f5b5f738687939c266"
     },
     {
       "disable_filter": 1,
@@ -34,6 +34,7 @@
     {
       "disable_filter": 0,
       "name": "🧸丨纸片 人",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
       "server": "ms_8dadfe68e9b34f5fb0c34c5050999ccc"
     },
     {
@@ -61,7 +62,7 @@
     {
       "disable_filter": 0,
       "name": "🍉丨水果 摊",
-      "server": "ms_36d19e493afa44a08c683695904554c8"
+      "server": "ms_93f2020d055d41dfaf0a60733b9d7320"
     },
     {
       "disable_filter": 0,
@@ -130,7 +131,7 @@
     {
       "disable_filter": 0,
       "name": "💫丨AWA  服",
-      "server": "ms_c9986406ec3b4c82b7fb81d0a18db331"
+      "server": "ms_cc02883d34d444cc94195fc4c4da2da9"
     },
     {
       "disable_filter": 0,
@@ -150,7 +151,7 @@
     {
       "disable_filter": 0,
       "name": "🍎丨Apop 服",
-      "server": "ms_dea2d4a8aac144b285eef74643d7fe7c"
+      "server": "ms_65142148b3444893b9a28fea15743b98"
     }, 
     {
       "disable_filter": 0,
@@ -171,12 +172,6 @@
     },
     {
       "disable_filter": 0,
-      "name": "🍩丨Temby",
-      "proxy": "",
-      "server": "ms_b3e29604137544068816c522ff84e85c"
-    },
-    {
-      "disable_filter": 0,
       "name": "🍭丨9clubs",
       "proxy": "",
       "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
@@ -192,12 +187,6 @@
       "name":"🍡丨SIESTA",
       "proxy":"",
       "server":"ms_db19d19588ea46ba85e1b3961efe80c5"
-    },
-    {
-      "disable_filter": 0,
-      "name": "Ⓜ️丨misakaf",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_3ac11a61ff5c467992917bd462b8b731"
     }
    
     
