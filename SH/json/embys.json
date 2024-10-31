@@ -26,6 +26,12 @@
       "server": "ms_a4078fca6e9c4628bd6280b27a2af862"
     },
     {
+      "disable_filter": 0,
+      "name": "🖌️丨墨白 服",
+      "proxy": "",
+      "server": "ms_bc9176bb957742a3ae2c9d834cff4f57"
+    }
+    {
       "disable_filter": 1,
       "name": "✨丨卡戎 服",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
