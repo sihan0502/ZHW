@@ -12,11 +12,6 @@
     },
     {
       "disable_filter": 0,
-      "name": "🪅丨垃圾 服",
-      "server": "ms_61f27d276b0144929abf1190e3efb100"
-    },
-    {
-      "disable_filter": 0,
       "name": "🎋丨天南 筑",
       "server": "ms_f55637008e2d46fb881ce47b0ea28702"
     },
@@ -27,15 +22,14 @@
     },
     {
       "disable_filter": 0,
-      "name": "🖌️丨墨白 服",
-      "proxy": "",
-      "server": "ms_bc9176bb957742a3ae2c9d834cff4f57"
-    }
+      "name": "🚁丨直升 机",
+      "server": "ms_356dbb2b02bd46398ea08b4931be7995"
+    },
     {
       "disable_filter": 1,
-      "name": "✨丨卡戎 服",
+      "name": "🐭丨卷毛 鼠",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
+      "server": "ms_7d41c4103f944135be5fecade08bc978"
     },
     {
       "disable_filter": 0,
@@ -71,6 +65,23 @@
     },
     {
       "disable_filter": 0,
+      "name": "🪅丨垃圾 服",
+      "server": "ms_61f27d276b0144929abf1190e3efb100"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🖌️丨墨白 服",
+      "proxy": "",
+      "server": "ms_bc9176bb957742a3ae2c9d834cff4f57"
+    }
+    {
+      "disable_filter": 1,
+      "name": "✨丨卡戎 服",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
+    },
+    {
+      "disable_filter": 0,
       "name": "🍍丨菠萝 服",
       "server": "ms_ae40dad2bbad48e596b9f48059e49915"
     },
@@ -90,17 +101,6 @@
       "server": "ms_67d54bee67f74176a16f8e8944afe7b9"
     },
     {
-      "disable_filter": 0,
-      "name": "🚁丨直升 机",
-      "server": "ms_356dbb2b02bd46398ea08b4931be7995"
-    },
-    {
-      "disable_filter": 1,
-      "name": "🐭丨卷毛 鼠",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_7d41c4103f944135be5fecade08bc978"
-    },
-    {
       "disable_filter": 1,
       "name": "🐼丨熊猫 服",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
@@ -108,7 +108,7 @@
     },
     {
       "disable_filter":0,
-      "name":"✨丨飞跃银河",
+      "name": "✈️丨飞跃 服",
       "proxy":"",
       "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
     },
