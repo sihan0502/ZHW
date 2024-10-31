@@ -93,11 +93,6 @@
       "type": 1
     },
     {
-      "name": "光速",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/",
-      "type": 1
-    },
-    {
       "name": "爱坤",
       "url": "https://ikunzyapi.com/api.php/provide/vod",
       "type": 1
