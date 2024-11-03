@@ -37,6 +37,11 @@
       "type": 1
     },
     {
+      "name": "魔都",
+      "url": "http://moduzy1.com/api.php/provide/vod/",
+      "type": 1
+    },
+    {
       "name": "淘片",
       "url": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
       "type": 1
