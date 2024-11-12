@@ -317,7 +317,7 @@
                 "token": "./jar/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "https://woog.nxog.top/",
+                "site": "https://woog.nxog.eu.org/",
                 "danmu": true
             },
             "timeout": 25
@@ -509,7 +509,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./lib/tokenm.json$$$https://woog.nxog.top/$$$null$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org/$$$null$$$1$$$./lib/wogg.json"
         },
         {
             "key": "wnlg",
@@ -959,7 +959,7 @@
             "type": 3,
             "api": "csp_FeiYangLive",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-            "ext":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u" 
+            "ext":"http://127.0.0.1:35455/tv.m3u" 
             //"ext":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u"
             //"ext":"http://144.24.40.190:35455/tv.m3u"
 
