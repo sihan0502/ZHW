@@ -78,6 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+	    "searchTop": true,
 	    "jar": "./jar/spider.jar",
             "style": {
                    "type": "rect",
