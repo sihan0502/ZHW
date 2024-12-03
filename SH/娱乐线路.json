@@ -15,7 +15,8 @@
                 		"ratio": 1.597
             		},
             		"ext": {
-                		"cookie": "file://TV/bilibili.txt"
+                		"cookie":"http://127.0.0.1:9978/file/TV/bilibili.txt"
+
             		},
             		"timeout": 10
         	},
