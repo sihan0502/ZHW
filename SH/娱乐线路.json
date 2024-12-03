@@ -10,7 +10,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"jar": "./jar//xmbjm.jar",
+			"jar": "./jar/xmbjm.jar",
 			"ext": "./js/KTV歌厅[听].js"
 		},
 		{
@@ -59,8 +59,25 @@
 				"type":"KTV#MTV#MV#演唱会#广场舞#音乐#舞蹈#戏曲#8K",
 				"cookie":""
 			}
-		}
-		
+		},
+		{
+            		"key": "哔哩弹幕",
+            		"name": "哔哩｜弹幕",
+            		"type": 3,
+            		"api": "csp_Bilimd",
+            		"searchable": 1,
+            		"quickSearch": 1,
+            		"filterable": 1,
+			"jar": "./jar/spider.jar",
+            		"style": {
+                		"type": "rect",
+                		"ratio": 1.597
+            		},
+            		"ext": {
+                		"cookie": "file://TV/bilibili.txt"
+            		},
+            		"timeout": 10
+        	}
 	],
 	"rules": [],
 	"parses": [],
