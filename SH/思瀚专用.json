@@ -78,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-	    "jar": "./jar/spider.jar",
+	    "jar": "./jar/okjpg.txt",
             "style": {
                    "type": "rect",
                    "ratio": 1.597
