@@ -40,7 +40,7 @@
         },
 	{
             "key": "CCTV",
-            "name": "📺CCTV ┃ 🌐",
+            "name": "📺丨CCTV【🌐】",
             "type": 3,
             "api": "csp_CCTV",
             "timeout": 30,
