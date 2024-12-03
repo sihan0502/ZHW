@@ -2,6 +2,37 @@
 	"spider": "./jar/pg.jar",
 	"sites": [
 		{
+            		"key": "🍃 | 哔哩哔哩 | ☃",
+            		"name": "哔哩｜弹幕",
+            		"type": 3,
+            		"api": "csp_Bilimd",
+            		"searchable": 1,
+            		"quickSearch": 1,
+            		"filterable": 1,
+			"jar": "./jar/spider.jar",
+            		"style": {
+                		"type": "rect",
+                		"ratio": 1.597
+            		},
+            		"ext": {
+                		"cookie": "file://TV/bilibili.txt"
+            		},
+            		"timeout": 10
+        	},
+		{
+			"key":"bili",
+			"name":"🍃 | 哔哩合集 | ☃",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"KTV#MTV#MV#演唱会#广场舞#音乐#舞蹈#戏曲#8K",
+				"cookie":""
+			}
+		},
+		{
 			"key": "hipy_js_KTV歌厅[听]",
 			"name": "🍃 | 拾光音乐 | ☪",
 			"type": 3,
@@ -46,38 +77,8 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext": "./js/斗鱼直播.js"
-		},
-		{
-			"key":"bili",
-			"name":"🍃 | 哔哩合集 | ☃",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"KTV#MTV#MV#演唱会#广场舞#音乐#舞蹈#戏曲#8K",
-				"cookie":""
-			}
-		},
-		{
-            		"key": "哔哩弹幕",
-            		"name": "哔哩｜弹幕",
-            		"type": 3,
-            		"api": "csp_Bilimd",
-            		"searchable": 1,
-            		"quickSearch": 1,
-            		"filterable": 1,
-			"jar": "./jar/spider.jar",
-            		"style": {
-                		"type": "rect",
-                		"ratio": 1.597
-            		},
-            		"ext": {
-                		"cookie": "file://TV/bilibili.txt"
-            		},
-            		"timeout": 10
-        	}
+		}
+		
 	],
 	"rules": [],
 	"parses": [],
