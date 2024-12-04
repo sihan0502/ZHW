@@ -170,15 +170,15 @@
     },
     {
       "disable_filter": 0,
-      "name": "🍭丨9clubs",
-      "proxy": "",
-      "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
+      "name": "🎈丨houyinx",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_f4b544b06fe347399b18eb5bb6bb36c5"
     },
     {
       "disable_filter": 0,
-      "name": "🎈丨houyinx",
+      "name": "🍭丨9clubs",
       "proxy": "",
-      "server": "ms_f4b544b06fe347399b18eb5bb6bb36c5"
+      "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
     },
     {
       "disable_filter": 0,
