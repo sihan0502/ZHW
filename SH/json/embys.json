@@ -2,16 +2,6 @@
   "servers": [
     {
       "disable_filter": 0,
-      "name": "📽️丨放映 厅",
-      "server": "ms_1b320bed20ee4b97bc918dd118f7098e"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🌴丨树状 图",
-      "server": "ms_a90fe6dee7714d62af910e916aad5e36"
-    },
-    {
-      "disable_filter": 0,
       "name": "🎋丨天南 筑",
       "server": "ms_f55637008e2d46fb881ce47b0ea28702"
     },
@@ -22,8 +12,15 @@
     },
     {
       "disable_filter": 0,
+      "name": "📽️丨放映 厅",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_1b320bed20ee4b97bc918dd118f7098e"
+    },
+    {
+      "disable_filter": 0,
       "name": "🚁丨直升 机",
-      "server": "ms_47690feb4d5546f5b5f738687939c266"
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_da2f68edc0da44f2b2986f375fb684fc"
     },
     {
       "disable_filter": 1,
@@ -45,7 +42,7 @@
     {
       "disable_filter": 0,
       "name": "🍄丨见手 青",
-      "server": "ms_4aaa7afb12b9482e855dc7fd8f9a673b"
+      "server": "ms_478a1850b1d64f0ea1f79ff62ed8a2cb"
     },
     {
       "disable_filter": 0,
@@ -93,6 +90,11 @@
     },
     {
       "disable_filter": 0,
+      "name": "🍩丨天鹅 服",
+      "server": "ms_1199551e5b00427486fa1fb0dd4605a5"
+    },
+    {
+      "disable_filter": 0,
       "name": "🦚丨琴鸟 服",
       "server": "ms_725be6f0a8764a08a30c0afbfbcdabdf"
     },
@@ -108,10 +110,21 @@
       "server": "ms_4bebf0c2c79c49b5bae5966099bd93bd"
     },
     {
+      "disable_filter": 1,
+      "name": "⭐丨星云 服",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_5dbe31f0fdc942fe9ecd72ac0dcd0285"
+    },
+    {
       "disable_filter":0,
       "name": "✈️丨飞跃 服",
       "proxy":"",
       "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🌴丨树状 图",
+      "server": "ms_a90fe6dee7714d62af910e916aad5e36"
     },
     {
       "disable_filter": 0,
@@ -121,7 +134,7 @@
     {
       "disable_filter": 0,
       "name": "🅰️丨ACA  服",
-      "server": "ms_e0e8825fee7c4424832de14708ebbffc"
+      "server": "ms_49fa1a0c30c54d998cceb9619b11f075"
     },
     {
       "disable_filter": 0,
@@ -156,7 +169,7 @@
     {
       "disable_filter": 0,
       "name": "🔰丨POLO 服",
-      "server": "ms_696a53e48b4f49359cb84f763f10bda9"
+      "server": "ms_bff91d6554a4411391624a1281b87575"
     },
     {
       "disable_filter": 1,
@@ -175,7 +188,13 @@
       "name": "🍭丨9clubs",
       "proxy": "",
       "server": "ms_aa8d7bb09afa4aea87aeeb337747bb20"
-    }, 
+    },
+    {
+      "disable_filter": 0,
+      "name": "🎈丨houyinx",
+      "proxy": "",
+      "server": "ms_f4b544b06fe347399b18eb5bb6bb36c5"
+    },
     {
       "disable_filter": 0,
       "name": "🍰丨custom",
