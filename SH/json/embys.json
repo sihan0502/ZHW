@@ -44,11 +44,6 @@
     },
     {
       "disable_filter": 0,
-      "name": "🍍丨菠萝 服",
-      "server": "ms_ae40dad2bbad48e596b9f48059e49915"
-    },
-    {
-      "disable_filter": 0,
       "name": "🕊️丨非越 服",
       "server": "ms_fcad294b9e094adbb970fa590a428f0d"
     },
@@ -72,11 +67,6 @@
       "name": "✈️丨飞跃 服",
       "proxy":"",
       "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🌴丨树状 图",
-      "server": "ms_a90fe6dee7714d62af910e916aad5e36"
     },
     {
       "disable_filter": 1,
@@ -161,11 +151,6 @@
       "name": "🌸丨LILY 服",
       "server": "ms_47fad6d8fcb34add8d9915c50c1e0864"
     },
-    {
-      "disable_filter": 0,
-      "name": "🍎丨Apop 服",
-      "server": "ms_65142148b3444893b9a28fea15743b98"
-    }, 
     {
       "disable_filter": 0,
       "name": "🔰丨POLO 服",
