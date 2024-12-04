@@ -12,30 +12,6 @@
     },
     {
       "disable_filter": 0,
-      "name": "📽️丨放映 厅",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_1b320bed20ee4b97bc918dd118f7098e"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🚁丨直升 机",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_da2f68edc0da44f2b2986f375fb684fc"
-    },
-    {
-      "disable_filter": 1,
-      "name": "🐭丨卷毛 鼠",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_7d41c4103f944135be5fecade08bc978"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🧸丨纸片 人",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_8dadfe68e9b34f5fb0c34c5050999ccc"
-    },
-    {
-      "disable_filter": 0,
       "name": "🙈丨不给 看",
       "server": "ms_5bb0a97ccf444483bf7a342d9fa7ec2a"
     },
@@ -49,12 +25,6 @@
       "name": "🍺丨阿尔 法",
       "proxy": "",
       "server": "ms_3373a92223b9418a86198e5d69d314e1"
-    }, 
-    {
-      "disable_filter": 1,
-      "name": "🅿️丨普拉 斯",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_e37bf55d7b2b466baeca78104defcd35"
     },
     {
       "disable_filter": 0,
@@ -71,12 +41,6 @@
       "name": "🖌️丨墨白 服",
       "proxy": "",
       "server": "ms_bc9176bb957742a3ae2c9d834cff4f57"
-    },
-    {
-      "disable_filter": 1,
-      "name": "✨丨卡戎 服",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
     },
     {
       "disable_filter": 0,
@@ -104,6 +68,47 @@
       "server": "ms_67d54bee67f74176a16f8e8944afe7b9"
     },
     {
+      "disable_filter":0,
+      "name": "✈️丨飞跃 服",
+      "proxy":"",
+      "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🌴丨树状 图",
+      "server": "ms_a90fe6dee7714d62af910e916aad5e36"
+    },
+    {
+      "disable_filter": 1,
+      "name": "✨丨卡戎 服",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_ceea716cd3f84d1dbb4f49a96eb8b03e"
+    },
+    {
+      "disable_filter": 0,
+      "name": "📽️丨放映 厅",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_1b320bed20ee4b97bc918dd118f7098e"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🚁丨直升 机",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_da2f68edc0da44f2b2986f375fb684fc"
+    },
+    {
+      "disable_filter": 1,
+      "name": "🐭丨卷毛 鼠",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_7d41c4103f944135be5fecade08bc978"
+    },
+    {
+      "disable_filter": 0,
+      "name": "🧸丨纸片 人",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_8dadfe68e9b34f5fb0c34c5050999ccc"
+    },
+    {
       "disable_filter": 1,
       "name": "🐼丨熊猫 服",
       "proxy": "http://127.0.0.1:10079/p/0/proxy/",
@@ -116,15 +121,10 @@
       "server": "ms_5dbe31f0fdc942fe9ecd72ac0dcd0285"
     },
     {
-      "disable_filter":0,
-      "name": "✈️丨飞跃 服",
-      "proxy":"",
-      "server":"ms_9d5810dbb7884ebe96a9b50db5919b32"
-    },
-    {
-      "disable_filter": 0,
-      "name": "🌴丨树状 图",
-      "server": "ms_a90fe6dee7714d62af910e916aad5e36"
+      "disable_filter": 1,
+      "name": "🅿️丨普拉 斯",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_e37bf55d7b2b466baeca78104defcd35"
     },
     {
       "disable_filter": 0,
