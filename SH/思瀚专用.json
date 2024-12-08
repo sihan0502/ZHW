@@ -980,6 +980,14 @@
             "ua": "okhttp/3.15",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+        {
+            "name": "🚀AKTV🚀",
+            "type": 0,
+            "url": "http://aktv.top/live.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
 	{
             "key": "FeiYangLive",
             "name": "🔥肥羊聚合🔥",
