@@ -47,7 +47,7 @@
             "searchable": 1,
             "changeable": 1,
             "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
-	    "ext": "http://152.67.215.170:5757/proxy/央视大全[官]" //支持多个代理 用 | 分割
+	    "ext": "http://110.42.41.38:5757/proxy/央视大全[官]|http://144.24.40.190:5757/proxy/央视大全[官]" //支持多个代理 用 | 分割
         },
         {
             "key": "embys",
