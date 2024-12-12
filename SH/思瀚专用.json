@@ -146,7 +146,7 @@
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
                 "uc_cookie": "file://TV/uc_cookie.txt",
-                "site": "http://www.muoupan.top/|http://www.mogg.top/|http://mogg.小胡.top",
+                "site": "http://www.mogg.top/",
                 "danmu": true
             },
             "timeout": 30
