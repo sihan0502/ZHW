@@ -27,11 +27,6 @@
     //    "disable_filter": 0,
     //    }
     {
-      "name": "如意",
-      "url": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/",
-      "type": 1
-   },
-    {
       "name": "木耳",
       "url": "https://json.heimuer.xyz/api.php/provide/vod",
       "type": 1
@@ -49,6 +44,11 @@
     {
       "name": "华为",
       "url": "https://hw8.live/api.php/provide/vod/at/json",
+      "type": 1
+    },
+    {
+      "name": "如意",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/",
       "type": 1
     },
     {
