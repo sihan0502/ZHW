@@ -526,6 +526,24 @@
             "changeable": 1,
             "ext": "./lib/tokenm.json$$$http://labipan.com/$$$noproxy$$$1$$$./lib/wogg.json"
         },
+	{
+            "key": "tdwp",
+            "name": "🥔丨土豆 盘【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/tokenm.json$$$https://dcyun.cc/$$$noproxy$$$1$$$./lib/wogg.json"
+        },
+	{
+            "key": "omwp",
+            "name": "Ⓜ️丨奥秘 盘【☣️】",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./lib/tokenm.json$$$https://vip.omii.top/$$$noproxy$$$1$$$./lib/wogg.json"
+        },
         {
             "key": "盘它影视",
             "name": "🥣 | 盘它 盘【☣️】",
