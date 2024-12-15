@@ -168,7 +168,6 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-	    "searchTop": true,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://www.muoupan.top/|http://www.mogg.top/|http://mogg.小胡.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
@@ -215,7 +214,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -233,7 +232,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -251,7 +250,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -268,7 +267,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "./jar/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -286,7 +285,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "./jar/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -303,7 +302,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "./jar/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -320,7 +319,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "./jar/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -338,7 +337,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"
             },
@@ -352,7 +351,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "site": "https://www.misou.fun"
@@ -367,7 +366,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -381,7 +380,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -395,7 +394,7 @@
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "danmu": true
@@ -409,7 +408,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt",
                 "danmu": true
