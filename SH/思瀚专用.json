@@ -92,7 +92,7 @@
             "filterable": 1,
             "changeable": 1,
             "searchTop": true,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -109,7 +109,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -128,7 +128,7 @@
             "filterable": 1,
             "changeable": 1,
             "searchTop": true,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
@@ -196,7 +196,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "token": "file://TV/ali_token.txt",
                 "cookie": "file://TV/quark_cookie.txt",
