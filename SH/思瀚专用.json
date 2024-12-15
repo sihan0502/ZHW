@@ -168,6 +168,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "changeable": 1,
+	    "searchTop": true,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://www.muoupan.top/|http://www.mogg.top/|http://mogg.小胡.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
