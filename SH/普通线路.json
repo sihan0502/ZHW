@@ -52,7 +52,7 @@
             "api": "csp_Nangua",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./jar/okjpg.txt"
+            "jar": "./jar/spider.jar"
         },
         {
             "key": "JinPai",
@@ -92,7 +92,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "ext": {
                 "danmu": true
             },
@@ -110,7 +110,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "./jar/okjpg.txt",
+            "jar": "./jar/spider.jar",
             "timeout": 20
         },
         {
