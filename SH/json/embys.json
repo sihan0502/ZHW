@@ -36,12 +36,6 @@
       "server": "ms_3373a92223b9418a86198e5d69d314e1"
     },
     {
-      "disable_filter": 1,
-      "name": "🅿️丨普拉 斯",
-      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
-      "server": "ms_e37bf55d7b2b466baeca78104defcd35"
-    },
-    {
       "disable_filter": 0,
       "name": "🅰️丨ACA  服",
       "server": "ms_49fa1a0c30c54d998cceb9619b11f075"
@@ -50,7 +44,37 @@
       "disable_filter": 0,
       "name": "🦄丨NYA  服",
       "server": "ms_da0784d174f54f8db13acfbc0caf6a21"
-    }, 
+    },
+    {
+      "disable_filter": 1,
+      "name": "🅿️丨普拉 斯",
+      "proxy": "http://127.0.0.1:10079/p/0/proxy/",
+      "server": "ms_e37bf55d7b2b466baeca78104defcd35"
+    },
+    {
+		"disable_filter": 0,
+		"name": "🐬丨终点站1",
+		"proxy": "",
+		"server": "ms_1b4496b2454d4768b0218ca98ac65f9e"
+	}, 
+    {
+		"disable_filter": 0,
+		"name": "🐳丨终点站2",
+		"proxy": "",
+		"server": "ms_29cecdc4399c497a850b9067c7d20690"
+	},
+    {
+		"disable_filter": 0,
+		"name": "🐋丨终点站3",
+		"proxy": "",
+		"server": "ms_7a147ba668db42eda9abc839db464a53"
+	}, 
+    {
+		"disable_filter": 0,
+		"name": "🐬丨lebo",
+		"proxy": "",
+		"server": "ms_ff619c3ec2d54e80a4afdb10be41f794"
+	},
     {
       "disable_filter": 1,
       "name": "🌾丨Misty",
