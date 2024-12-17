@@ -40,7 +40,7 @@
         },
 	{
             "key": "CCTV",
-            "name": "📺丨央视精品【🌐】",
+            "name": "📺丨CCTV 【🌐】",
             "type": 3,
             "api": "csp_CCTV",
             "timeout": 30,
@@ -50,8 +50,21 @@
 	    "ext": "http://110.42.41.38:5757/proxy/央视大全[官]|http://144.24.40.190:5757/proxy/央视大全[官]" //支持多个代理 用 | 分割
         },
 	{
+            "key": "embys",
+            "name": "📽️丨EMBY 【🌐】",
+            "type": 3,
+            "api": "csp_Embys",
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "searchTop": true,
+            "searchCount": 35,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar",
+            "ext": "./json/embys.json"
+        },
+	{
             "key": "哔哩弹幕",
-            "name": "🅱️丨哔哩哔哩【🌐】",
+            "name": "🅱️丨BILI 【🌐】",
             "type": 3,
             "api": "csp_Bilimd",
             "searchable": 1,
@@ -70,7 +83,7 @@
         },    
         {
             "key": "WoKee_jar_CjGod ",
-            "name": "💫丨采集大全【🌐】",
+            "name": "💫丨采  集【🌐】",
             "type": 3,
             "api": "csp_CjGod",
             "searchable": 1,
@@ -103,7 +116,7 @@
         },
         {
             "key": "表哥弹幕",
-            "name": "👺丨玩偶表哥【☯️】",
+            "name": "👺丨玩偶哥哥【☯️】",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
