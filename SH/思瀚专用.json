@@ -77,7 +77,7 @@
                    "ratio": 1.597
             	   },
             "ext": {
-                   "cookie": "file://TVBox/bilibili.txt"
+                   "cookie": "https://4972.kstore.space/558621/bili_cookie.txt"
                    },
             "timeout": 10
         },    
