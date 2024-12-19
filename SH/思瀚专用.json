@@ -983,6 +983,14 @@
     ],
     "lives": [
 	 {
+            "key": "🚀BLTV🚀",
+            "name": "ipv6首选",
+            "type": 3,
+            "api": "csp_BsLive",
+            "timeout": 30,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/WoKee/testFile/main/jar/local.jar"
+	 },
+	 {
             "name": "🚀APTV🚀",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u",
