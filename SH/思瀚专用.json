@@ -983,8 +983,8 @@
     ],
     "lives": [
 	 {
-            "key": "🚀BLTV🚀",
-            "name": "ipv6首选",
+            "key": "BsLive",
+            "name": "🚀BLTV🚀",
             "type": 3,
             "api": "csp_BsLive",
             "timeout": 30,
